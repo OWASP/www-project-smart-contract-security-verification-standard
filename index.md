@@ -1,36 +1,43 @@
 ---
 
-layout: col-sidebar
-title: OWASP Smart Contract Security Verfication Standards
-tags: example-tag
-level: 2
-type: documentation
-pitch: A very brief, one-line description of your project
+layout: col-sidebar  
+title: OWASP Smart Contract Security Verification Standards  
+tags: smart-contract builders defenders  
+level: 2  
+type: documentation  
+pitch: The standard provides a basis for designing, building, and testing robust Smart Contracts  
 
 ---
 
-I have worked on OWASP Smart Contract Security Top 10 [https://owasp.org/www-project-smart-contract-top-10/|https://owasp.org/www-project-smart-contract-top-10/] recently and after its completion, I want to take the project ahead by drafting Smart Contract Security Verification standards (SCSVS) taking inspiration from OWASP MASVS ([https://mas.owasp.org/MASVS/|https://mas.owasp.org/MASVS/]) and then SCSTG (Smart Contract Security Testing guide). Last year, blockchain-related hacks resulted in losses totaling $1.3 billion, with $700 million attributed to vulnerabilities in smart contracts. This significant gap in security standards for smart contracts underscores the urgent need for a comprehensive framework. This project is to establish such standards, enabling global collaboration and providing developers with clear guidelines to enhance security during the development process.
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://owasp.org/www-project-smart-contract-security-verification-standards)  
+[![Creative Commons License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0")
 
-SCSVS usages will be as below:
-1. A security standard for developers, and project owners.
-2. Guideline for auditors, and testers.
-3. Possibly a baseline for the codebase being (Tested/Non-Tested)
+## Introduction
 
-And parallelly, OWASP SCSTG (Next in the plan) will serve as a comprehensive manual for actual auditing/testing. It will describe the technical processes for verifying the controls defined in OWASP SCSVS. While SCSTG is a guide, SCS Checklist will be the actual checklist for the auditor to follow/tick-mark what controls/tests were tested; what passes, what fails, discoveries, etc. 
+The primary aim of the OWASP Smart Contract Security Verification Standard (SCSVS) Project is to provide an open security standard for designing, building, and testing secure smart contracts.
 
-### Road Map
-This initiative will be part of the broader OWASP Smart Contracts Security (SCS) project, which aims to provide robust guidelines and tools for securing smart contracts.
+The standard offers guidelines that address the specific security risks and concerns related to smart contracts, decentralized applications (dApps) and EVM-based blockchain systems, focusing on the core principles of security in smart contract development.
 
-Components of OWASP Smart Contracts Security (SCS) Project
+Initial Draft Version - 0.1
 
-Step 1:
-OWASP SCSVS: Smart Contracts Security Verification Standard - [Work In progress]
+The latest stable version is version 0.1 (dated September 2024), which can be found:
 
-Step2:
-Based on the existing SCSVS.
-OWASP SCSWE: Security Weakness Enumeration [TO-DO] 
+* [OWASP Smart Contract Security Verification Standards 0.1 English (PDF)](#)
 
-Step3:
-OWASP SCSTG: Security Testing Guide [TO-DO]  Inspired by the Mobile Security Testing Guide (MSTG).
+The master branch of this repository will always be the "bleeding edge version," which may have in-progress changes or other edits open.
 
-Note: OWASP Top-10 for Smart Contracts Top-10 Smart Contract Bugs - (We have already done it and would do it again for 2024 based on our dataset [https://solidityscan.com/web3hackhub|https://solidityscan.com/web3hackhub])
+We gratefully recognize the organizations that have supported the project either through significant time provision or financially on our "[Supporters](https://github.com/OWASP/www-project-smart-contract-security-verification-standards/blob/main/SUPPORTERS.md)" page!
+
+## Standard Objectives
+
+The requirements were developed with the following objectives in mind:
+
+1. **Develop and Refine Security Guidelines**: Consolidate general security practices into a comprehensive set of guidelines for smart contract developers and security professionals.
+2. **Address Unique Security Challenges of Smart Contracts**: Focus specifically on vulnerabilities, such as reentrancy, overflows/underflows, gas optimization, and economic attacks.
+3. **Guide Development Teams in Secure Practices**: Provide detailed guidance to developers for implementing secure coding practices in smart contract development.
+4. **Assist Security Teams in Audits and Penetration Testing**: Offer methodologies for effective smart contract audits and penetration testing, including blockchain data integrity, access control, and business logic.
+5. **Establish and Update Security Benchmarks**: Create and regularly update security benchmarks to reflect the evolving nature of blockchain ecosystems and smart contract security.
+6. **Promote Best Practices in Smart Contract Security**: Encourage the adoption of best practices, such as defensive coding, formal verification, and test-driven development, to secure smart contract environments.
+7. **Align Security Expectations Among Stakeholders**: Establish a common understanding of security expectations for developers, auditors, blockchain platforms, and decentralized finance (DeFi) users.
+
+---
