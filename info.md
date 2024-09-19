@@ -1,17 +1,28 @@
-### Smart Contract Security Verfication Standards Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+### OWASP Smart Contract Security Verfication Standards Information
+
+* <i class="fas fa-egg" style="font-size: 1.2em; color:#3468AC;"></i><span style="font-size:1.0em;padding-left:12px;">Incubator Project</span>
+
+### Classification
+
+* <i class="fas fa-book" style="color:#233e81;"></i> Documentation
+
+### Audience
+
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
+* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
 ### Downloads or Social Links
+
 * [Download](#)
-* [Meetup](#)
+* [Join OWASP Group Slack](https://owasp.org/slack/invite)
+* [Join #project-smart-contract-security-verfication-standards Channel](#)
+
 
 ### Code Repository
-* [repo](#)
+
+* [Repo](https://github.com/OWASP/www-project-smart-contract-security-verfication-standards)
 
 ### Change Log
-* [changes](#)
 
+* [Changes](#)
