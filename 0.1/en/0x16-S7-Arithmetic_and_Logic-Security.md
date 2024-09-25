@@ -48,7 +48,8 @@ Ensure that all calculations and logical operations within the smart contract ar
 | S7.2.A6      | Implement proper rounding direction for calculations where accounting relies on user shares to avoid inaccuracies. |    | ✓  | ✓  |     |
 | S7.2.A7      | Validate that inequalities and comparisons are correctly implemented to handle edge values appropriately. |    | ✓  | ✓  |     |
 | S7.2.A8      | Ensure that abi.decode adheres to the type limits to avoid reverts due to overflow of target types. |    | ✓  | ✓  |     |
-| S7.2.A9      | Ensure that logical operators such as ==, !=, &&, ||, and ! are used correctly, especially when test coverage may be limited. |    | ✓  | ✓  |     |
+| S7.2.A9 | Ensure that logical operators such as `==`, `!=`, `&&`, `||`, and `!` are used correctly, especially when test coverage may be limited. |  | ✓  | ✓  |  |
+
 
 ### S7.2.B Precondition and Postcondition Checks
 

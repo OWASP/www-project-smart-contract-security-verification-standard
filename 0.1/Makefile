@@ -3,7 +3,7 @@ BUILDDIR=build
 DISTDIR=dist
 TOOLSDIR=tools
 TEMPLATEDIR=templates
-TARGETNAME=OWASP_Smart_Contract_Security_Verification_Standard-0.1_
+TARGETNAME=OWASP_Smart_Contract_Security_Verification_Standard-0.0.1_
 
 LANGDIRS=en #fr
 # Add the language directories to the project directory
