@@ -1,4 +1,4 @@
-### OWASP Smart Contract Security Verfication Standards Information
+### OWASP Smart Contract Security Verification Standard Information
 
 * <i class="fas fa-egg" style="font-size: 1.2em; color:#3468AC;"></i><span style="font-size:1.0em;padding-left:12px;">Incubator Project</span>
 
@@ -21,7 +21,7 @@
 
 ### Code Repository
 
-* [Repo](https://github.com/OWASP/www-project-smart-contract-security-verfication-standards)
+* [Repo](https://github.com/OWASP/www-project-smart-contract-security-verification-standard)
 
 ### Change Log
 
