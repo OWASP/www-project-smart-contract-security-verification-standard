@@ -13,11 +13,11 @@ We gratefully recognize the organization that have supported the project either 
 
 **Please [log issues](https://github.com/OWASP/www-project-smart-contract-security-verification-standard/issues) if you find any bugs or if you have ideas. We may subsequently ask you to [open a pull request](https://github.com/OWASP/www-project-smart-contract-security-verification-standard/pulls) based on the discussion in the issue.**
 
-## Initial Draft Version - 0.1
+## Initial Draft Version - 0.0.1
 
-The latest stable version is version 0.1 (dated September 2024), which can be found:
+The latest stable version is version 0.0.1 (dated September 2024), which can be found:
 
-* [OWASP Smart Contract Security Verification Standard 0.1 English (PDF)](#)
+* [OWASP Smart Contract Security Verification Standard 0.0.1 English (PDF)](https://github.com/OWASP/www-project-smart-contract-security-verification-standard/releases/download/v0.0.1/OWASP_Smart_Contract_Security_Verification_Standard-0.0.1_en.pdf)
 
 The master branch of this repository will always be the "bleeding edge version," which may have in-progress changes or other edits open.
 
