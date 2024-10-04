@@ -33,3 +33,11 @@ The **Smart Contract Security Verification Standard (SCSVS)** is built upon the 
 This initiative would not have been possible without the support of our sponsor and the resources they have provided. We would like to express our gratitude to the following for their support.
 
 ### CredShields
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/credshields-logo.png" alt="CredShields Logo" style="margin-right: 20px; width: 250px;">
+    <img src="../images/solidityscan-logo.png" alt="SolidityScan Logo" style="width: 250px;">
+</div>
+
+
+The OWASP SCSVS project was initiated to share the knowledge gained from the CredShields Security Team's research into Smart Contract security while developing [SolidityScan.com](https://solidityscan.com), an AI-powered vulnerability scanner for Smart Contracts. We extend our gratitude to [CredShields](https://credshields.com) for their efforts in defining the initial requirements and founding this project.
