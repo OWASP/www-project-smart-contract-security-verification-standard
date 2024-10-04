@@ -34,10 +34,10 @@ This initiative would not have been possible without the support of our sponsor 
 
 ### CredShields
 
-<div style="display: flex; align-items: center;">
-    <img src="../images/credshields-logo.png" alt="CredShields Logo" style="margin-right: 20px; width: 250px;">
-    <img src="../images/solidityscan-logo.png" alt="SolidityScan Logo" style="width: 250px;">
-</div>
+
+![CredShields](../images/credshields-logo.png){ width=300px } 
+![SolidityScan](../images/solidityscan-black-logo.png){ width=300px }
+
 
 
 The OWASP SCSVS project was initiated to share the knowledge gained from the CredShields Security Team's research into Smart Contract security while developing [SolidityScan.com](https://solidityscan.com), an AI-powered vulnerability scanner for Smart Contracts. We extend our gratitude to [CredShields](https://credshields.com) for their efforts in defining the initial requirements and founding this project.
