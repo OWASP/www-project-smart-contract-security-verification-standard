@@ -14,9 +14,9 @@
 
 ### Downloads or Social Links
 
-* [Download](#)
+* [Download](https://github.com/OWASP/www-project-smart-contract-security-verification-standard/releases/tag/v0.0.1)
 * [Join OWASP Group Slack](https://owasp.org/slack/invite)
-* [Join #project-smart-contract-security-verfication-standards Channel](#)
+* [Join #project-smart-contract-security-verfication-standards Channel](https://owasp.slack.com/archives/C07MNDE6TPZ)
 
 
 ### Code Repository
@@ -25,4 +25,4 @@
 
 ### Change Log
 
-* [Changes](#)
+* [Changes](https://github.com/OWASP/www-project-smart-contract-security-verification-standard/releases/tag/v0.0.1)
