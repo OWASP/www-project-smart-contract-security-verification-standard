@@ -18,11 +18,11 @@ The primary aim of the OWASP Smart Contract Security Verification Standard (SCSV
 
 The standard offers guidelines that address the specific security risks and concerns related to smart contracts, decentralized applications (dApps) and EVM-based blockchain systems, focusing on the core principles of security in smart contract development.
 
-Initial Draft Version - 0.1
+Initial Draft Version - 0.0.1
 
-The latest stable version is version 0.1 (dated September 2024), which can be found:
+The latest stable version is version 0.0.1 (dated September 2024), which can be found:
 
-* [OWASP Smart Contract Security Verification Standard 0.1 English (PDF)](#)
+* [OWASP Smart Contract Security Verification Standard 0.0.1 English (PDF)](https://github.com/OWASP/www-project-smart-contract-security-verification-standard/releases/download/v0.0.1/OWASP_Smart_Contract_Security_Verification_Standard-0.0.1_en.pdf)
 
 The master branch of this repository will always be the "bleeding edge version," which may have in-progress changes or other edits open.
 
