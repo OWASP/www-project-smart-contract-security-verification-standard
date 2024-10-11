@@ -6,7 +6,7 @@ tags: smart-contract builders defenders
 level: 2  
 type: documentation  
 pitch: The standard provides a basis for designing, building, and testing robust Smart Contracts  
-
+headerimage: ./assets/images/scsvs-banner.png
 ---
 
 [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://owasp.org/www-project-smart-contract-security-verification-standard)  
