@@ -1,5 +1,7 @@
 # OWASP Smart Contract Security Verification Standard
 
+<img src="./assets/images/scsvs-banner.png" width="700px">
+
 [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://owasp.org/www-project-smart-contract-security-verification-standard)
 [![Creative Commons License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0")
 
