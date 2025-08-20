@@ -5,6 +5,13 @@
 [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://owasp.org/owasp-scsvs)
 [![Creative Commons License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0")
 
+> ## Join the OWASP Smart Contract Security Slack
+> [![Slack](https://img.shields.io/badge/slack-join%20chat-611f69?logo=slack&logoColor=white)](https://owasp.slack.com/archives/C07MNDE6TPZ)
+> 
+> _Discussions and Support_
+
+-----
+
 ## Introduction
 
 The primary aim of the OWASP Smart Contract Security Verification Standard (SCSVS) Project is to provide an open security standard for designing, building, and testing secure smart contracts.
